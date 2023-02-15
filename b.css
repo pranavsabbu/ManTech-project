@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #333;
+}
+
+#results {
+    font-size: 1.2em;
+    color: #333;
+    font-weight: bold;
+}
